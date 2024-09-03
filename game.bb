@@ -1,7 +1,7 @@
 ;***********************************************************************************
 ; This code can be used for any use, private, public, commercial, educational, etc.
 ;
-; I, Perry Robertson, created the original game in DOS in 1992.
+; I, Perry Armstrong, created the original game in DOS in 1992.
 ; This version I created to learn Blitz Basic.  This is my 1st project in Blitz.
 ; The reason why the code is not the best it could be is I tried to stick to the 
 ; original code.  I cut and paste function by function converting from C to Blitz.
@@ -20,7 +20,7 @@
 AppTitle("Assimilation XP")
 
 Print "ASSIMILATION (C) 1992,2003,V1.0"
-Print "by Perry Robertson"
+Print "by Perry Armstrong"
 Print
 Print "This version is about 99% complete"
 Print
